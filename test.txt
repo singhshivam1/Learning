@@ -10,3 +10,5 @@ abd commit.
 
 
 git example
+
+7th commit.
